@@ -157,7 +157,7 @@ ext {
 			tomcatWsEmbed: "org.apache.tomcat.embed:tomcat-embed-websocket:$twsVersion",
 			httpclient   : "org.apache.httpcomponents:httpclient:$httpclientVersion",
 			websocket    : "javax.websocket:javax.websocket-api:1.1",
-			servlet      : "javax:javaee-web-api:7.0",
+			servlet      : "javax:javaee-web-api:8.0",
 	]
 
 	react = [
